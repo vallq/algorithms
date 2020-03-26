@@ -1,0 +1,12 @@
+{
+  "name": "binary-search",
+  "version": "1.0.0",
+  "description": "Implement naive and recursive solutions for a simple binary search algorithm.",
+  "main": "binarySearch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
